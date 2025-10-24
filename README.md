@@ -32,7 +32,7 @@ This project performs comprehensive Exploratory Data Analysis (EDA) and advanced
 ### Installation Steps
 1. **Clone/Download Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MrSpecks/Machine-Learning-Assessment.git
    cd Machine-Learning-Assessment
    ```
 
