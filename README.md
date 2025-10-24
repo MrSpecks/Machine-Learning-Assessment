@@ -160,7 +160,6 @@ scikit-learn>=1.3.0
 
 **Full Name:** Kagiso Mfusi  
 **Email:** Kagisomfusi@outlook.com  
-**Mobile:** 0696287623  
 **LinkedIn:** [https://www.linkedin.com/in/kagiso-mfusi-95b329224](https://www.linkedin.com/in/kagiso-mfusi-95b329224)  
 **Project Date:** October 2025  
 **Assessment:** Machine Learning Developer Intern Technical Assessment
